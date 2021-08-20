@@ -11,14 +11,14 @@ Credenitas de google {
 }
 
 
-Deploy for heroku {
+Deploy for heroku on SERVER {
     git status
     git add .
     git commit -m "message"
     git push heroku master
 }
 
-Save on git {
+Save on git on NODE-REDUX {
     git status
     git add .
     git commit -m "message"
